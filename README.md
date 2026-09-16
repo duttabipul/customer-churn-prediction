@@ -1,6 +1,9 @@
 # Customer Churn Explorer
 
 A Python machine learning portfolio project maintained by Bipul Dutta.
+## App preview
+
+![Customer Churn Explorer app](screenshots/app-demo.png)
 
 ## Business question
 Which customer profiles are associated with leaving a telecom company? This project explores historical churn and compares two classifiers to estimate whether a customer leaves. It does not measure whether a retention campaign works.
